@@ -34,11 +34,7 @@
 
 ###
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrinivask007" alt="shrinivask007" /></a> </p>
-<br>
-<center>
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shrinivask007&show_icons=true&locale=en&layout=compact" alt="shrinivask007" /></p>
-    <br>
-    <p><img src="https://github-readme-stats.vercel.app/api?username=shrinivask007&show_icons=true&locale=en" alt="shrinivask007" /></p>
-    <br>
-    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=shrinivask007&" alt="shrinivask007" /></p>
-</center>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrinivask007&show_icons=true&locale=en&layout=compact" alt="shrinivask007" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrinivask007&show_icons=true&locale=en" alt="shrinivask007" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrinivask007&" alt="shrinivask007" /></p>
+
