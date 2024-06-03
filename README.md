@@ -8,6 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/iamshree_007" target="blank"><img src="https://img.shields.io/twitter/follow/iamshree_007?logo=twitter&style=for-the-badge" alt="iamshree_007" /></a> </p>
 
+- 👨🏻‍💼<a href="https://shrinivask007.github.io/Portfolio/"> **My Portfolio**  </a>
+- 
 - 🔭 I’m currently working on **AI-ML**
 
 - 🌱 I’m currently learning **MERN**
