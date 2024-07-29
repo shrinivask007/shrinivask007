@@ -34,12 +34,10 @@
 
 ###
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrinivask007" alt="shrinivask007" /></a> </p>
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrinivask007&show_icons=true&locale=en&layout=compact" alt="shrinivask007" style="width: 330px;" />
-</p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrinivask007&" alt="shrinivask007" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrinivask007&show_icons=true&locale=en" alt="shrinivask007" /></p>
-
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=shrinivask007&count_private=true&theme=default&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=shrinivask007&show_icons=true&theme=default&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrinivask007&hide=HTML&langs_count=8&layout=compact&theme=default&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
 
