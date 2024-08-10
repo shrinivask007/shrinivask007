@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **AI-ML**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **Coding**
 
